@@ -2,6 +2,7 @@
 Titanium is the desktop for forby linux
 
 LICENSE:
+
 The following license is created to keep the Titanium project open sourced, but protected. To use Titanium you must follow these set rules.
 
 1. Only the owner/author, Noah B. Mitchell, may sell Titanium, no one else may sell Titanium.
