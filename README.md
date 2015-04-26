@@ -1,5 +1,5 @@
 # titanium
-Titanium is the desktop for forby linux
+Titanium is the desktop for forby linux, main website link: http://forby.weebly.com/
 
 LICENSE:
 
